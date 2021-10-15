@@ -1,2 +1,5 @@
-# similarity_notebook
-Here is an example of similarity example
+# Similarity_notebook
+You can find 2 notebooks:
+Exam.y
+
+![Architecture](/architecture.png)
