@@ -2,4 +2,4 @@
 You can find 2 notebooks:
 Exam.y
 
-![Architecture](/architecture.png)
+![Architecture](/Architecture.png)
